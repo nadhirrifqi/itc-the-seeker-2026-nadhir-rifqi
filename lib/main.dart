@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.green,
       ),
-      home: HomeScreen(),
+      home: const HomeScreen(),
       routes: {
         '/struktur': (context) => const StrukturScreen(),
         '/detail': (context) => const DetailScreen(),
@@ -28,7 +28,7 @@ class MyApp extends StatelessWidget {
         if (settings.name == '/detail') {
           final Pengurus _ = settings.arguments as Pengurus;
           return MaterialPageRoute(
-            builder: (context) => DetailScreen(),
+            builder: (context) => const DetailScreen(),
             settings: settings,
           );
         }
