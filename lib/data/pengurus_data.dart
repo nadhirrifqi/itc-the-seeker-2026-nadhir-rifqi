@@ -8,7 +8,7 @@ class PengurusData {
       jabatan       : 'Ketua ITC',
       divisi        : 'Pengurus Inti',
       fotoUrl       : 'assets/images/ketua.jpeg',
-      instagramLink : '@graceriantyy',
+      instagramLink : 'graceriantyy',
       deskripsiTugas: 'Bertanggung jawab penuh atas jalannya organisasi ITC, memimpin rapat, dan mengambil keputusan strategis.',
     ),
     Pengurus(
@@ -17,7 +17,7 @@ class PengurusData {
       jabatan       : 'Wakil Ketua ITC',
       divisi        : 'Pengurus Inti',
       fotoUrl       : 'assets/images/wakil.jpeg',
-      instagramLink : '@xaki_to',
+      instagramLink : 'xaki_to',
       deskripsiTugas: 'Mendampingi ketua, mengkoordinasikan divisi-divisi, dan menggantikan ketua jika berhalangan.',
     ),
     Pengurus(
@@ -26,7 +26,7 @@ class PengurusData {
       jabatan       : 'Sekretaris',
       divisi        : 'Pengurus Inti',
       fotoUrl       : 'assets/images/sekretaris.jpeg',
-      instagramLink : '@naylasaskiaaa',
+      instagramLink : 'naylasaskiaaa',
       deskripsiTugas: 'Bertanggung jawab penuh atas administrasi organisasi. Mengelola surat-menyurat (masuk dan keluar), membuat notulensi rapat, serta mengarsipkan dokumen penting organisasi.',
     ),
     Pengurus(
@@ -35,7 +35,7 @@ class PengurusData {
       jabatan       : 'Bendahara',
       divisi        : 'Pengurus Inti',
       fotoUrl       : 'assets/images/bendahara.jpeg',
-      instagramLink : '@dewsynn',
+      instagramLink : 'dewsynn',
       deskripsiTugas: 'Mengelola seluruh keuangan organisasi, termasuk kas anggota dan dana sponsor. Bertugas merencanakan anggaran kegiatan, serta membuat laporan keuangan berkala secara transparan.',
     ),
     Pengurus(
@@ -44,7 +44,7 @@ class PengurusData {
       jabatan       : 'Staff Devisi',
       divisi        : 'Media dan Informasi',
       fotoUrl       : 'assets/images/medinfo1.jpeg',
-      instagramLink : '@muhmdraflyyy',
+      instagramLink : 'muhmdraflyyy',
       deskripsiTugas: 'Mendukung pengelolaan media sosial dan komunikasi organisasi. Bertugas membuat konten kreatif untuk Instagram dan platform lainnya, mendesain poster dan materi promosi, serta mendokumentasikan kegiatan organisasi dalam bentuk foto dan video.',
     ),
     Pengurus(
@@ -53,7 +53,7 @@ class PengurusData {
       jabatan       : 'Staff Devisi',
       divisi        : 'Media dan Informasi',
       fotoUrl       : 'assets/images/medinfo2.jpeg',
-      instagramLink : '@diooo_o_',
+      instagramLink : 'diooo_o_',
       deskripsiTugas: 'Mendukung pengelolaan media sosial dan komunikasi organisasi. Bertugas membuat konten kreatif untuk Instagram dan platform lainnya, mendesain poster dan materi promosi, serta mendokumentasikan kegiatan organisasi dalam bentuk foto dan video.',
     ),
     Pengurus(
@@ -62,7 +62,7 @@ class PengurusData {
       jabatan       : 'Staff Devisi',
       divisi        : 'Media dan Informasi',
       fotoUrl       : 'assets/images/medinfo3.jpeg',
-      instagramLink : '@navianwldn',
+      instagramLink : 'navianwldn',
       deskripsiTugas: 'Mendukung pengelolaan media sosial dan komunikasi organisasi. Bertugas membuat konten kreatif untuk Instagram dan platform lainnya, mendesain poster dan materi promosi, serta mendokumentasikan kegiatan organisasi dalam bentuk foto dan video.',
     ),
     Pengurus(
@@ -71,7 +71,7 @@ class PengurusData {
       jabatan       : 'Kepala Divisi',
       divisi        : 'UI/UX Designer',
       fotoUrl       : 'assets/images/kadiv_ui_ux.jpeg',
-      instagramLink : '@mruhulj',
+      instagramLink : 'mruhulj',
       deskripsiTugas: 'Memimpin divisi desain, membuat mockup aplikasi, dan melakukan user research.',
     ),
     Pengurus(
@@ -80,7 +80,7 @@ class PengurusData {
       jabatan       : 'Wakil Kepala Divisi',
       divisi        : 'UI/UX Designer',
       fotoUrl       : 'assets/images/wakadiv_ui_ux.jpeg',
-      instagramLink : '@gitarrsy',
+      instagramLink : 'gitarrsy',
       deskripsiTugas: 'Mendampingi kepala divisi dalam mengelola dan mengkoordinasikan kegiatan divisi. Bertanggung jawab mengawasi pelaksanaan program kerja, serta menggantikan kepala divisi ketika berhalangan.',
     ),
     Pengurus(
@@ -89,7 +89,7 @@ class PengurusData {
       jabatan       : 'Kepala Divisi',
       divisi        : 'Web Development',
       fotoUrl       : 'assets/images/kadiv_web.jpeg',
-      instagramLink : '@grdv_arya',
+      instagramLink : 'grdv_arya',
       deskripsiTugas: 'Memimpin pengembangan platform web yang responsif, modern, dan berorientasi pada pengalaman pengguna terbaik.',
     ),
     Pengurus(
@@ -98,7 +98,7 @@ class PengurusData {
       jabatan       : 'Wakil Kepala Divisi',
       divisi        : 'Web Development',
       fotoUrl       : 'assets/images/wakadiv_web1.jpeg',
-      instagramLink : '@marvel_valensiano._',
+      instagramLink : 'marvel_valensiano._',
       deskripsiTugas: 'Mendampingi kepala divisi dalam mengelola dan mengkoordinasikan kegiatan divisi. Bertanggung jawab mengawasi pelaksanaan program kerja, serta menggantikan kepala divisi ketika berhalangan.',
     ),
     Pengurus(
@@ -107,7 +107,7 @@ class PengurusData {
       jabatan       : 'Wakil Kepala Divisi',
       divisi        : 'Web Development',
       fotoUrl       : 'assets/images/wakadiv_web2.jpeg',
-      instagramLink : '@frhnvtaaa',
+      instagramLink : 'frhnvtaaa',
       deskripsiTugas: 'Mendampingi kepala divisi dalam mengelola dan mengkoordinasikan kegiatan divisi. Bertanggung jawab mengawasi pelaksanaan program kerja, serta menggantikan kepala divisi ketika berhalangan.',
     ),
     Pengurus(
@@ -116,7 +116,7 @@ class PengurusData {
       jabatan       : 'Kepala Divisi',
       divisi        : 'Competitive Programming',
       fotoUrl       : 'assets/images/kadiv_cp.jpeg',
-      instagramLink : '@rizalards_',
+      instagramLink : 'rizalards_',
       deskripsiTugas: 'Mengarahkan pelatihan algoritma dan strategi pemecahan masalah untuk kompetisi pemrograman tingkat nasional & internasional.',
     ),
     Pengurus(
@@ -125,7 +125,7 @@ class PengurusData {
       jabatan       : 'Wakil Kepala Divisi',
       divisi        : 'Competitive Programming',
       fotoUrl       : 'assets/images/wakadiv_cp.jpeg',
-      instagramLink : '@satrio._.dewaki',
+      instagramLink : 'satrio._.dewaki',
       deskripsiTugas: 'Mendampingi kepala divisi dalam mengelola dan mengkoordinasikan kegiatan divisi. Bertanggung jawab mengawasi pelaksanaan program kerja, serta menggantikan kepala divisi ketika berhalangan.',
     ),
     Pengurus(
@@ -134,7 +134,7 @@ class PengurusData {
       jabatan       : 'Kepala Divisi',
       divisi        : 'Mobile Development',
       fotoUrl       : 'assets/images/kadiv_mobile.jpeg',
-      instagramLink : '@_linkebin',
+      instagramLink : '_linkebin',
       deskripsiTugas: 'Mengkoordinasikan perancangan dan pengembangan aplikasi mobile yang inovatif, stabil, dan siap rilis di berbagai platform.',
     ),
     Pengurus(
@@ -143,7 +143,7 @@ class PengurusData {
       jabatan       : 'Wakil Kepala Divisi',
       divisi        : 'Mobile Development',
       fotoUrl       : 'assets/images/wakadiv_mobile.jpeg',
-      instagramLink : '@ikhsannflh',
+      instagramLink : 'ikhsannflh',
       deskripsiTugas: 'Mendampingi kepala divisi dalam mengelola dan mengkoordinasikan kegiatan divisi. Bertanggung jawab mengawasi pelaksanaan program kerja, serta menggantikan kepala divisi ketika berhalangan.',
     ),
     Pengurus(
@@ -152,7 +152,7 @@ class PengurusData {
       jabatan       : 'Kepala Divisi',
       divisi        : 'Machine Learning',
       fotoUrl       : 'assets/images/kadiv_ml.jpeg',
-      instagramLink : '@tangrmdhn',
+      instagramLink : 'tangrmdhn',
       deskripsiTugas: 'Memimpin riset dan implementasi model kecerdasan buatan serta analisis data untuk solusi teknologi berbasis AI.',
     ),
     Pengurus(
@@ -161,7 +161,7 @@ class PengurusData {
       jabatan       : 'Wakil Kepala Divisi',
       divisi        : 'Machine Learning',
       fotoUrl       : 'assets/images/wakadiv_ml.jpeg',
-      instagramLink : '@mdimassetiaji',
+      instagramLink : 'mdimassetiaji',
       deskripsiTugas: 'Mendampingi kepala divisi dalam mengelola dan mengkoordinasikan kegiatan divisi. Bertanggung jawab mengawasi pelaksanaan program kerja, serta menggantikan kepala divisi ketika berhalangan.',
     ),
     Pengurus(
@@ -170,7 +170,7 @@ class PengurusData {
       jabatan       : 'Kepala Divisi',
       divisi        : 'Project Manager',
       fotoUrl       : 'assets/images/kadiv_pm.jpeg',
-      instagramLink : '@kurniasarisall_',
+      instagramLink : 'kurniasarisall_',
       deskripsiTugas: 'Mengelola perencanaan, koordinasi tim, dan eksekusi proyek teknologi agar berjalan tepat waktu, terukur, dan selaras dengan visi ITC.',
     ),
     Pengurus(
