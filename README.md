@@ -11,7 +11,7 @@ Aplikasi mobile Flutter untuk menampilkan struktur organisasi ITC (Information T
 - Fitur favorite pengurus
 - UI/UX yang menarik dengan tema hijau
 
-## 📸 Screenshot Aplikasi
+## Screenshot Aplikasi
 
 ### Halaman Home
 ![Home](home_screen.png)
@@ -26,6 +26,6 @@ Aplikasi mobile Flutter untuk menampilkan struktur organisasi ITC (Information T
 
 1. **Clone repository**
    ```bash
-   git clone https://github.com/nadhirrifqi/itc-the-seeker-2026-Nadhir_Rifqi.git
+   git clone https://github.com/nadhirrifqi/itc-the-seeker-2026-nadhir-rifqi.git
 2. **flutter pub get**
 3. **flutter run**
