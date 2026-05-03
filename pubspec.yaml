@@ -1,0 +1,44 @@
+name: itc_directory
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/images/wakil.jpeg
+    - assets/images/wakadiv_web2.jpeg
+    - assets/images/wakadiv_web1.jpeg
+    - assets/images/wakadiv_UI_UX.jpeg
+    - assets/images/wakadiv_PM.jpeg
+    - assets/images/wakadiv_mobile.jpeg
+    - assets/images/wakadiv_ML.jpeg
+    - assets/images/wakadiv_CP.jpeg
+    - assets/images/sekretaris.jpeg
+    - assets/images/medinfo3.jpeg
+    - assets/images/medinfo2.jpeg
+    - assets/images/medinfo1.jpeg
+    - assets/images/ketua.jpeg
+    - assets/images/kadiv_web.jpeg
+    - assets/images/kadiv_UI_UX.jpeg
+    - assets/images/kadiv_PM.jpeg
+    - assets/images/kadiv_mobile.jpeg
+    - assets/images/kadiv_ML.jpeg
+    - assets/images/kadiv_CP.jpeg
+    - assets/images/bendahara.jpeg
+    - assets/images/bg_directory.jpeg
+    - assets/images/bg_pengurus.jpeg
