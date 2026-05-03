@@ -25,9 +25,13 @@ flutter:
     - assets/images/wakadiv_web1.jpeg
     - assets/images/wakadiv_UI_UX.jpeg
     - assets/images/wakadiv_PM.jpeg
+    - assets/images/wakadiv_ui_ux.jpeg
+    - assets/images/wakadiv_pm.jpeg
     - assets/images/wakadiv_mobile.jpeg
     - assets/images/wakadiv_ML.jpeg
     - assets/images/wakadiv_CP.jpeg
+    - assets/images/wakadiv_ml.jpeg
+    - assets/images/wakadiv_cp.jpeg
     - assets/images/sekretaris.jpeg
     - assets/images/medinfo3.jpeg
     - assets/images/medinfo2.jpeg
@@ -36,9 +40,13 @@ flutter:
     - assets/images/kadiv_web.jpeg
     - assets/images/kadiv_UI_UX.jpeg
     - assets/images/kadiv_PM.jpeg
+    - assets/images/kadiv_ui_ux.jpeg
+    - assets/images/kadiv_pm.jpeg
     - assets/images/kadiv_mobile.jpeg
     - assets/images/kadiv_ML.jpeg
     - assets/images/kadiv_CP.jpeg
+    - assets/images/kadiv_ml.jpeg
+    - assets/images/kadiv_cp.jpeg
     - assets/images/bendahara.jpeg
     - assets/images/bg_directory.jpeg
     - assets/images/bg_pengurus.jpeg
