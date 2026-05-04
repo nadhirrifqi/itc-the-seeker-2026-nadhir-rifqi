@@ -34,8 +34,10 @@ Sebelum menjalankan aplikasi, pastikan Anda telah menginstal:
 1. **Clone repository**
    ```bash
    git clone https://github.com/nadhirrifqi/itc-the-seeker-2026-nadhir-rifqi.git
-2. **cd ic-the-seeker-26-nadhir-rifqi**
-3. **flutter pub get**
-4. **flutter run**
+2. **Change directory**
+   ```bash
+   cd itc-the-seeker-2026-nadhir-rifqi
+4. **flutter pub get**
+5. **flutter run**
    ```bash
    flutter run/ flutter run -d chrome / flutter build apk --release   
