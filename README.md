@@ -23,9 +23,19 @@ Aplikasi mobile Flutter untuk menampilkan struktur organisasi ITC (Information T
 ![Detail](detail_profile_pengurus.png)
 
 ## Cara Menjalankan Aplikasi
+Sebelum menjalankan aplikasi, pastikan Anda telah menginstal:
+
+- **Flutter SDK** (versi 3.0 atau lebih tinggi)
+- Download: https://flutter.dev/docs/get-started/install
+- **Android Studio** atau **VS Code**
+- **Android SDK** (untuk menjalankan di emulator Android)
+- **Git**
 
 1. **Clone repository**
    ```bash
    git clone https://github.com/nadhirrifqi/itc-the-seeker-2026-nadhir-rifqi.git
-2. **flutter pub get**
-3. **flutter run**
+2. **cd ic-the-seeker-26-nadhir-rifqi**
+3. **flutter pub get**
+4. **flutter run**
+   ```bash
+   flutter run/ flutter run -d chrome / flutter build apk --release   
